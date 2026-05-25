@@ -382,4 +382,4 @@ async def on_message(message):
 # --- INICIO DEL BOT ---
 # Reemplace "TU_DISCORD_TOKEN" con el token de desarrollo de Discord
 # client.run("TU_DISCORD_TOKEN")
-client.run('MTQ5ODQ1MzY5MDIwMDM1ODkzMg.Ga3Nds.ABS_VeO5fkNpnbmoJTXUZnw0vJVKsv4TNoUbjg')
+client.run("TU_TOKEN_AQUI")
